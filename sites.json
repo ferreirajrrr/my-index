@@ -2,13 +2,197 @@
   "categories": [
     "inspiracao",
     "componentes-ui",
-    "templates",
-    "css-e-animacoes",
-    "icones-e-fontes",
+    "animacoes-e-3d",
+    "tipografia",
     "cores-e-design",
     "ferramentas",
+    "templates",
     "aprendizado",
     "outros"
   ],
-  "sites": []
+  "sites": [
+    {
+      "name": "Godly",
+      "url": "https://godly.design/",
+      "description": "Galeria curada de sites com design ousado e animações marcantes.",
+      "category": "inspiracao",
+      "tags": [
+        "galeria",
+        "web-design",
+        "animacao"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/",
+      "description": "Premiação e vitrine dos melhores sites do mundo, com votação de design, usabilidade e criatividade.",
+      "category": "inspiracao",
+      "tags": [
+        "galeria",
+        "premiacao",
+        "web-design"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Muzli",
+      "url": "https://muz.li/",
+      "description": "Agregador de inspiração de design: sites, apps, branding e tendências.",
+      "category": "inspiracao",
+      "tags": [
+        "galeria",
+        "tendencias",
+        "ui"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "SaaSFrame",
+      "url": "https://www.saasframe.io/",
+      "description": "Biblioteca de telas e fluxos reais de produtos SaaS (onboarding, pricing, dashboards).",
+      "category": "inspiracao",
+      "tags": [
+        "saas",
+        "ui",
+        "fluxos",
+        "dashboard"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Design Reviewed",
+      "url": "https://designreviewed.com/",
+      "description": "Arquivo de design gráfico histórico (anúncios, capas, tipografia de meados do século XX).",
+      "category": "inspiracao",
+      "tags": [
+        "design-grafico",
+        "vintage",
+        "referencia-visual"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Inspotype",
+      "url": "https://inspotype.com/discovery",
+      "description": "Desmonta projetos reais em fontes, cores e imagens para você remixar a direção visual.",
+      "category": "inspiracao",
+      "tags": [
+        "tipografia",
+        "paleta",
+        "branding",
+        "direcao-de-arte"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "21st.dev",
+      "url": "https://21st.dev/",
+      "description": "Marketplace de componentes React/Tailwind prontos, no estilo shadcn/ui.",
+      "category": "componentes-ui",
+      "tags": [
+        "react",
+        "tailwind",
+        "shadcn"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Vengeance UI",
+      "url": "https://www.vengenceui.com/",
+      "description": "Componentes React animados e interativos para landing pages, instaláveis via shadcn CLI.",
+      "category": "componentes-ui",
+      "tags": [
+        "react",
+        "nextjs",
+        "shadcn",
+        "animacao",
+        "landing-page"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Motion",
+      "url": "https://motion.dev/",
+      "description": "Biblioteca de animação para React e JS (antigo Framer Motion). Início: https://motion.dev/docs/quick-start#install",
+      "category": "animacoes-e-3d",
+      "tags": [
+        "react",
+        "javascript",
+        "animacao"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "GSAP",
+      "url": "https://gsap.com/",
+      "description": "Biblioteca JS de animação de alta performance, com plugins como ScrollTrigger.",
+      "category": "animacoes-e-3d",
+      "tags": [
+        "javascript",
+        "animacao",
+        "scroll"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "React Spring",
+      "url": "https://www.react-spring.dev/",
+      "description": "Animações baseadas em física de molas para React.",
+      "category": "animacoes-e-3d",
+      "tags": [
+        "react",
+        "animacao",
+        "fisica"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Three.js",
+      "url": "https://threejs.org/",
+      "description": "Biblioteca JS para gráficos 3D no navegador com WebGL.",
+      "category": "animacoes-e-3d",
+      "tags": [
+        "javascript",
+        "3d",
+        "webgl"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Fontshare",
+      "url": "https://www.fontshare.com/",
+      "description": "Fontes profissionais gratuitas para uso pessoal e comercial (Indian Type Foundry).",
+      "category": "tipografia",
+      "tags": [
+        "fontes",
+        "gratis"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Jitter",
+      "url": "https://jitter.video/",
+      "description": "Ferramenta online para criar motion design e animações de UI, exportando vídeo, GIF ou Lottie.",
+      "category": "ferramentas",
+      "tags": [
+        "motion-design",
+        "prototipo",
+        "lottie"
+      ],
+      "added": "2026-10-01"
+    },
+    {
+      "name": "Brik",
+      "url": "https://brik.space/",
+      "description": "Plataforma com IA para criar ferramentas de design personalizadas a partir de uma ideia.",
+      "category": "ferramentas",
+      "tags": [
+        "ia",
+        "design",
+        "gerador"
+      ],
+      "added": "2026-10-01"
+    }
+  ]
 }
